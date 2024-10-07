@@ -1,4 +1,4 @@
-# alx_html_css
+
 F.A.Q. Web Page Design
 Project Overview
 This project is a responsive F.A.Q. (Frequently Asked Questions) page based on the provided Figma layout. The design focuses on a minimalistic and clean layout, ensuring compatibility with both desktop and mobile views. The page is designed to adapt seamlessly, providing a great user experience across different screen sizes.
